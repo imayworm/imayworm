@@ -19,6 +19,6 @@
 <h3 align="left">Hobbies:</h3>
 <p align="left"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imayworm&show_icons=true&locale=en&layout=compact" alt="imayworm" /></p></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imayworm&show_icons=true&locale=en&layout=compact" alt="imayworm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imayworm&show_icons=true&locale=en" alt="imayworm" /></p>
