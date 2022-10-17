@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Izabela Mayworm</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Olá Mundo! 👋, me chamo Izabela</h1>
+<h3 align="center">Faço ADS, moro no RJ e estou em transição de carreiras.</h3>
 
 <p align="left"> <a href="https://twitter.com/bvolkova" target="blank"><img src="https://img.shields.io/twitter/follow/bvolkova?logo=twitter&style=for-the-badge" alt="bvolkova" /></a> </p>
 
